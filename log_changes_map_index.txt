@@ -1,0 +1,3 @@
+04.01.2016 Changed the normal value of BLS Root
+04.01.2016  value has been changed for the radio map.html
+04.01.2016.16.48.txt the unit id7 has been changed in this file
